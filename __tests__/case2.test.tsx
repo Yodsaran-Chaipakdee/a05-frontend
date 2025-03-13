@@ -24,4 +24,3 @@ describe('Booking Page', () => {
     expect(DateReserve).toHaveBeenCalledTimes(1)
   })
 })
-
